@@ -1,80 +1,93 @@
 [
   {
-    "title": "Sales Executive, Andean Region",
+    "title": "Australian Headhunter (Recruitment)",
+    "salary_min": 14.5,
+    "salary_max": 14.5,
+    "currency": "AUD",
+    "url": "https://himalayas.app/companies/rovr-outsourcing/jobs/australian-headhunter-recruitment?utm_source=api"
+  },
+  {
+    "title": "IT Sales Account Specialist",
+    "salary_min": 35000,
+    "salary_max": 45000,
+    "currency": "EUR",
+    "url": "https://himalayas.app/companies/henryscheins/jobs/it-sales-account-specialist?utm_source=api"
+  },
+  {
+    "title": "Remote - International Tax Attorney",
+    "salary_min": 175000,
+    "salary_max": 350000,
+    "currency": "USD",
+    "url": "https://himalayas.app/companies/orion-placement/jobs/remote-international-tax-attorney?utm_source=api"
+  },
+  {
+    "title": "Supervisor, Home Health Insurance Authorization",
+    "salary_min": 65000,
+    "salary_max": 88600,
+    "currency": "USD",
+    "url": "https://himalayas.app/companies/centerwell-senior-primary-care/jobs/supervisor-home-health-insurance-authorization?utm_source=api"
+  },
+  {
+    "title": "Graduate Interest",
     "salary_min": null,
     "salary_max": null,
-    "url": "https://himalayas.app/companies/deuna/jobs/sales-executive-andean-region?utm_source=api"
+    "currency": null,
+    "url": "https://himalayas.app/companies/bolt6/jobs/graduate-interest?utm_source=api"
   },
   {
-    "title": "Performance Copywriter — Serbia",
-    "salary_min": 2500,
-    "salary_max": 3800,
-    "url": "https://himalayas.app/companies/reach-digital/jobs/performance-copywriter-serbia?utm_source=api"
+    "title": "Associate Director - Life Sciences Advisory - Market Access (US)",
+    "salary_min": 135000,
+    "salary_max": 225000,
+    "currency": "USD",
+    "url": "https://himalayas.app/companies/guidehouse/jobs/associate-director-life-sciences-advisory-market-access-us-7565196598?utm_source=api"
   },
   {
-    "title": "Principal Software Engineer - Rack Scale Systems Infrastructure",
-    "salary_min": 272000,
-    "salary_max": 431250,
-    "url": "https://himalayas.app/companies/nvidia/jobs/principal-software-engineer-rack-scale-systems-infrastructure?utm_source=api"
+    "title": "Clinical Denial RN",
+    "salary_min": 68000,
+    "salary_max": 113000,
+    "currency": "USD",
+    "url": "https://himalayas.app/companies/guidehouse/jobs/clinical-denial-rn?utm_source=api"
   },
   {
-    "title": "Principal Engineer - AV Simulation and Evaluation",
-    "salary_min": 272000,
-    "salary_max": 431250,
-    "url": "https://himalayas.app/companies/nvidia/jobs/principal-engineer-av-simulation-and-evaluation?utm_source=api"
-  },
-  {
-    "title": "Genesys Cloud Access Management",
-    "salary_min": 89000,
-    "salary_max": 121400,
-    "url": "https://himalayas.app/companies/humana/jobs/genesys-cloud-access-management?utm_source=api"
-  },
-  {
-    "title": "Medical Doctor / Physician (Mexico Only)",
-    "salary_min": 110,
-    "salary_max": 110,
-    "url": "https://himalayas.app/companies/elitebrain/jobs/medical-doctor-physician-mexico-only?utm_source=api"
-  },
-  {
-    "title": "Director of Finance & Accounting, Remote (U.S.)",
-    "salary_min": 150000,
-    "salary_max": 185000,
-    "url": "https://himalayas.app/companies/ceresai/jobs/director-of-finance-accounting-remote-u-s?utm_source=api"
-  },
-  {
-    "title": "Advanced Software Engineer",
+    "title": "Associate Communications Specialist",
     "salary_min": null,
     "salary_max": null,
-    "url": "https://himalayas.app/companies/veryux/jobs/advanced-software-engineer?utm_source=api"
+    "currency": "USD",
+    "url": "https://himalayas.app/companies/parsons-corporation/jobs/associate-communications-specialist?utm_source=api"
   },
   {
-    "title": "Accounting Expert - CPA Certified",
-    "salary_min": 130,
-    "salary_max": 160,
-    "url": "https://himalayas.app/companies/mercor/jobs/accounting-expert-cpa-certified-8481008574?utm_source=api"
+    "title": "Call Center Triage Consultant I",
+    "salary_min": 74870,
+    "salary_max": 94000,
+    "currency": "USD",
+    "url": "https://himalayas.app/companies/leidos/jobs/call-center-triage-consultant-i-1041225856?utm_source=api"
   },
   {
-    "title": "Inside Sales Representative- Advertising Executive",
-    "salary_min": null,
-    "salary_max": null,
-    "url": "https://himalayas.app/companies/guide-book-publishing/jobs/inside-sales-representative-advertising-executive-6685878793?utm_source=api"
+    "title": "Accounting Assistant",
+    "salary_min": 19.86,
+    "salary_max": 34.76,
+    "currency": "USD",
+    "url": "https://himalayas.app/companies/parsons-corporation/jobs/accounting-assistant?utm_source=api"
   },
   {
-    "title": "OT Cybersecurity Architect",
-    "salary_min": 150000,
-    "salary_max": 160000,
-    "url": "https://himalayas.app/companies/claroty/jobs/ot-cybersecurity-architect?utm_source=api"
+    "title": "Litigation & Compliance Counsel",
+    "salary_min": 163400,
+    "salary_max": 287400,
+    "currency": "USD",
+    "url": "https://himalayas.app/companies/genesys/jobs/litigation-compliance-counsel-9232996757?utm_source=api"
   },
   {
-    "title": "Entry Level Remote Sales - No Experience Required",
-    "salary_min": null,
-    "salary_max": null,
-    "url": "https://himalayas.app/companies/the-semler-agency/jobs/entry-level-remote-sales-no-experience-required?utm_source=api"
+    "title": "Tier 1 Customer Service Representative",
+    "salary_min": 35100,
+    "salary_max": 63450,
+    "currency": "USD",
+    "url": "https://himalayas.app/companies/leidos/jobs/tier-1-customer-service-representative?utm_source=api"
   },
   {
-    "title": "Accountant (ACA / ACCA / CIMA)",
-    "salary_min": null,
-    "salary_max": null,
-    "url": "https://himalayas.app/companies/digital-science/jobs/accountant-aca-acca-cima?utm_source=api"
+    "title": "Content Lawyer (Commercial)",
+    "salary_min": 86400,
+    "salary_max": 144000,
+    "currency": "CAD",
+    "url": "https://himalayas.app/companies/lexisnexis/jobs/content-lawyer-commercial?utm_source=api"
   }
 ]

@@ -24,6 +24,7 @@ def process_vacancies(raw_jobs: list, exclude_words: list) -> list:
             "title": title,
             "salary_min": job.get("minSalary"),
             "salary_max": job.get("maxSalary"),
+            "currency": job.get("currency"),
             "url": job.get("applicationLink")
         })
 
